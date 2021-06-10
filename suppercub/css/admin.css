@@ -1,0 +1,77 @@
+body{
+	margin: 0 auto;
+	background-image: url("../images/3.jpg");
+	color: #05FD29;
+	
+}
+body a{
+	
+	
+	
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: none;
+	
+	
+	text-align: center;
+}
+#tieude{
+	background-color: #150DC1;
+	color:white;
+	font-size: 24px;
+	padding: 10px;
+}
+.hang_2 a{
+	width: 162px;
+	height: 30px;
+	pading:10px;
+	background-color: #04B957;
+	color: #FFF;
+	font-weight: bold;
+	display: block;
+	float: left;
+	margin-right: 2px;
+	text-align: center;
+	
+}
+.hang_2 a:hover{
+	background: #1C270E;
+}
+
+.noidung{
+	height: 190px;
+	overflow: hidden;
+}
+.ahihi img{
+	margin: 120px 0 0 150px;
+}
+
+
+#textfield{
+	width: 275px;
+}
+#button{
+	width: 75px;
+	margin-top: -5px;
+	background: #575757;
+	color: #F1E4D0;
+	font-size: 16px;
+	border-radius: 10px;
+}
+.phantrang{
+	text-align: center;	
+	margin-top: 20px;
+}
+.phantrang a{
+	background-color: #F9F9F9;
+	color: #0D0A0A;
+	padding: 10px;
+	margin-right: 3px;
+	text-decoration: none;
+	border-radius: 15%;
+	font-weight: bold;
+}
+.phantrang a:hover{
+	background-color:#09F;
+	color: #FFFFFF;
+}

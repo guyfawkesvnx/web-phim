@@ -1,0 +1,146 @@
+/* CSS Document */
+
+@charset "utf-8";
+
+body{
+	margin: 0 auto;
+	background-image: url("../images/dang-ky.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+}
+
+
+
+.avatar{
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	position: absolute;
+	top: -50px;
+	margin-left: 38%;
+	
+}
+ h1{
+	
+	margin: 0px;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 40px;
+	color: #F80206;
+	
+}
+h3{
+	margin: 0px;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 22px;
+}
+
+#Dangky{
+	width: 700px;
+	height: 465px;
+	background: rgba(0,0,0,0.5);
+	color: #D7FD02;
+	top:50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%); 
+	box-sizing: border-box;
+	padding: 60px 30px 20px 30px;
+}
+
+
+label{
+	font-weight: bold;	
+	float: left;
+	margin-left: 70px;
+}
+input  {
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: rgba(0,0,0,0.5); 
+	outline: none;
+	height: 30px;
+	color: #D7FD02;
+	font-size: 16px;
+	margin-left: 15px;	
+    width: 400px;
+	margin-bottom: 10px;
+	
+	
+}
+
+
+#form{
+	width: 600px;
+	border: 1px solid #000;
+	background: #CACACA;
+	margin: 20px 120px;
+	padding: 15px 0px 0px 60px;
+	margin-left: 15px;
+	
+}
+#radio{
+	margin: 0px;
+	padding: 0px;
+	width: 20px;
+	margin-left: 40px;
+}
+textarea{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: rgba(0,0,0,0.5); 
+	outline: none;
+	height: 120px;
+	color: #D7FD02;
+	font-size: 16px;
+	margin-left: 15px;	
+    width: 400px;
+	
+}
+#name{
+	margin-left: 15px;
+	
+}
+#pass{
+	margin-left: 20px;
+	
+}
+#email{
+	margin-left: 48px;
+	text-align: center;
+}
+#jobs{
+	margin-left: 20px;
+}
+#button:hover{
+	color: aliceblue;
+	background: #1190D7;	
+}
+#button{
+	margin-left: 150px;
+	width: 100px;
+	font-weight: bold;
+	text-align: center;	
+	border-radius: 20px;
+	background: #E40404;
+	margin-top: 15px;
+	
+	
+}
+#login{
+	text-decoration: none;
+	font-size: 24px;
+	color: #002CFB;
+	margin-left: 40%;
+}
+ #login:hover{
+	color: #0DF703;
+}
+
+
+
+
+
+
+
